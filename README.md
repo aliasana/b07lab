@@ -1,4 +1,5 @@
 Developed class Polynomial as follows:
+
 i. It has one field representing the coefficients of the polynomial using an array of
 double. A polynomial is assumed to have the form 𝑎0 + 𝑎1𝑥1 + ⋯ + 𝑎𝑛−1𝑥𝑛−1.
 For example, the polynomial 6 − 2𝑥 + 5𝑥3 would be represented using the
